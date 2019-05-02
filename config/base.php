@@ -1,8 +1,8 @@
 <?php return array (
-  'site_name' => 'OneIndex',
+  'site_name' => 'SkyForest',
   'password' => 'gao.62237595',
   'style' => 'material',
-  'onedrive_root' => '',
+  'onedrive_root' => '/',
   'cache_type' => 'secache',
   'cache_expire_time' => 3600,
   'cache_refresh_time' => 600,
@@ -101,4 +101,7 @@
   'client_id' => 'a9b4d461-b866-402c-80df-84db8cebdb7e',
   'redirect_uri' => 'https://oneindex.github.io/',
   'refresh_token' => 'OAQABAAAAAADCoMpjJXrxTq9VG9te-7FXErb-eyqsownlGLrjSxMMERXAzzjtgFP6JTVlDlYFWiFxanRuuNC1mAGVt9aSqKn1UANtA14pZRd3P-SNkFkAkF_j0LHoZ1ad3h2zLIxHh-STMxEqjEs1dYY_hQnfjEzAtA_stQQ9jIY3LrI9BplCWyDUtQbVHz4QC4FEZtubxWpw-PKhnc8R928kJP-_EvvZQwufIqMkStOBlMJ1CNf3rgzzPJqFYugSprwhTdg0QANuTXPRGSkWVBZf34urLrdhlEjcvqgMYjDhB6lreHAzJUlMDVn3p0LJfzycVCpVmqEKPL5FNrVwMFn7yAfpJndP3RbnTZNAdYiAcHDLgfoMlsc8-sokIjUiLDQeIOawcDzAXgBijAhAWLDHVMBsDMWlKlhzt4E9JYoOQbEyhojUVD8MyNcqT7s-fgY52uw1oYvByR5Ex65UZtoYEFy3uL_kkcNY1IUSoHPhywVsdumGz7ra7CVu5DqCNsMh6C7TJb64PxC7IMM7yu6AyZDQK0b9PkKmOf2qWsYii5Fv4KqNate5dCLgJx5Nt33sPuc2_In7HKsf9Thcpgx1PGxsKaqvFd5B0rHIoM5FbdHF30So6ZpKI_7UZyq7CbvFIxT10YnZp4_khd-xgt05wQYso9Ne1bDj_SKuTjfpgw086XBArPYZUfOv-TUGmai1k6vTpSBH7S6jOZaqw77fX_E2KGlhTOtXbkc_ZKx9WoszV_H7RaAAwm4_zND_c74dr6uGBWNGEYBn9dCRRE6h8GUuKygKwmPsBOdPSAwvgz09U6n4pSAA',
+  'onedrive_hide' => '手机里的图片
+',
+  'onedrive_hotlink' => '',
 );
