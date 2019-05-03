@@ -1,7 +1,7 @@
 <?php return array (
   'site_name' => 'SkyForest',
   'password' => 'gao.62237595',
-  'style' => 'material',
+  'style' => 'nexmoe',
   'onedrive_root' => '/',
   'cache_type' => 'secache',
   'cache_expire_time' => 3600,
